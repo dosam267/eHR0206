@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: sist
+Class-Path: lib/spring-core-4.3.10.RELEASE.jar lib/commons-logging-1.2
+ .jar lib/spring-jdbc-4.3.10.RELEASE.jar lib/spring-beans-4.3.10.RELEA
+ SE.jar lib/spring-tx-4.3.10.RELEASE.jar lib/spring-context-4.3.10.REL
+ EASE.jar lib/spring-aop-4.3.10.RELEASE.jar lib/spring-expression-4.3.
+ 10.RELEASE.jar lib/ojdbc6-11.2.0.3.jar lib/log4j-1.2.17.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Main-Class: com.ehr.AppMain
+
